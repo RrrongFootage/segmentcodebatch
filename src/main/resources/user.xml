@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Kabelo</name>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Nteka</name>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Thabo</name>
+    </user>
+</users>

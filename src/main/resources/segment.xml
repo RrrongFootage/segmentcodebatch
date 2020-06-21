@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="../Styles/ScheduleSegmentCodeLookup.xsl"?>
+<SegmentCodes
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SegmentCode SK="-989999945631">
+        <Code>_FNB_Business</Code>
+        <Description>_FNB_Business</Description>
+        <Rank>20</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>8421376</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999952579" />
+        <UpdatedOn>2020-01-14T13:41:38+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999945904">
+        <Code>_FNB_Card</Code>
+        <Description>_FNB_Card</Description>
+        <Rank>19</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>65280</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>480</DefaultDuration>
+        <UpdatedBy SK="-989999952579" />
+        <UpdatedOn>2020-01-14T13:40:10+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999983061">
+        <Code>ADMIN</Code>
+        <Description>ADMIN</Description>
+        <Rank>12</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>12615808</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:15:17+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997877">
+        <Code>BRK1ST</Code>
+        <Description>First break</Description>
+        <Rank>7</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>33023</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>15</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T11:05:24+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997874">
+        <Code>BRKLST</Code>
+        <Description>Last break</Description>
+        <Rank>6</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>33023</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>15</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T11:04:46+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997889">
+        <Code>COACH</Code>
+        <Description>On-the-job coaching</Description>
+        <Rank>11</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>16776960</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:15:42+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997862">
+        <Code>Leave</Code>
+        <Description>Leave</Description>
+        <Rank>2</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>8454143</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>510</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:20:53+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997859">
+        <Code>LEAVEU</Code>
+        <Description>Unpaid leave</Description>
+        <Rank>1</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>8454143</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>510</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:21:06+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997871">
+        <Code>LUNCH</Code>
+        <Description>Lunch</Description>
+        <Rank>5</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>33023</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-13T12:44:54+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997886">
+        <Code>MTNG</Code>
+        <Description>Meeting</Description>
+        <Rank>10</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>16776960</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T11:59:57+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999986183">
+        <Code>NINZI TEST</Code>
+        <Description>NINZI TEST</Description>
+        <Rank>16</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>16711680</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>510</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T14:08:26+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997892">
+        <Code>OT</Code>
+        <Description>Overtime (container)</Description>
+        <Rank>17</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>0</Color>
+        <FontColor>16777215</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:12:57+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997883">
+        <Code>PROJ</Code>
+        <Description>Special project</Description>
+        <Rank>9</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>16776960</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:16:13+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997895">
+        <Code>SHIFT</Code>
+        <Description>Shift (container)</Description>
+        <Rank>18</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>0</Color>
+        <FontColor>16777215</FontColor>
+        <DefaultDuration>510</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-13T12:49:50+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997868">
+        <Code>SICKP</Code>
+        <Description>Paid sickness</Description>
+        <Rank>4</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>255</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:17:56+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997865">
+        <Code>SICKU</Code>
+        <Description>Unpaid sickness</Description>
+        <Rank>3</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>255</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:17:46+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999983114">
+        <Code>SIGNED IN</Code>
+        <Description>SIGNED IN</Description>
+        <Rank>14</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>-16777211</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T10:49:50+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999983109">
+        <Code>SIGNED OUT</Code>
+        <Description>SIGNED OUT</Description>
+        <Rank>15</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>-16777211</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T10:49:50+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999983079">
+        <Code>SYS ERROR</Code>
+        <Description>SYS ERROR</Description>
+        <Rank>13</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>65535</Color>
+        <FontColor>-16777208</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-08T10:48:24+02:00</UpdatedOn>
+    </SegmentCode>
+    <SegmentCode SK="-989999997880">
+        <Code>TRAIN</Code>
+        <Description>Training</Description>
+        <Rank>8</Rank>
+        <RequiresMemo>false</RequiresMemo>
+        <Color>16776960</Color>
+        <FontColor>-2147483640</FontColor>
+        <DefaultDuration>60</DefaultDuration>
+        <UpdatedBy SK="-989999987201" />
+        <UpdatedOn>2019-11-12T12:16:38+02:00</UpdatedOn>
+    </SegmentCode>
+</SegmentCodes>
